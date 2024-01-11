@@ -1,3 +1,3 @@
 # HumanitiesClass1
 
-![https://github.com/bbravo101/HumanitiesClass1/blob/main/GithubLogo.png]
+![GithubLogo.png](https://github.com/bbravo101/HumanitiesClass1/blob/main/GithubLogo.png)

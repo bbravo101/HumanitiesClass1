@@ -1,3 +1,3 @@
 # HumanitiesClass1
 
-Githublogo.png
+GithubLogo.png
